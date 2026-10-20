@@ -3,3 +3,7 @@ main { max-width: 680px; margin: 0 auto; padding: 48px 24px; }
 h1 { font-size: 2em; margin: .2em 0 .6em; }
 h2 { font-size: 1.15em; margin-top: 1.8em; }
 a { color: #0b57d0; }
+.dl { list-style: none; padding: 0; }
+.dl li { margin: 0 0 14px; }
+.btn { display: inline-block; padding: 6px 14px; margin-right: 8px; border-radius: 8px; background: #0b57d0; color: #fff; text-decoration: none; font-weight: 600; }
+.btn:hover { background: #0842a0; }
